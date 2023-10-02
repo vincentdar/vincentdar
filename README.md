@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-Let me introduce myself, I am Vincent Darmawan, a fresh graduate from Petra Christian University majoring at Computer Science. I am highly interested at combining the power of software engineering and AI to create a scalable AI application.
-<br>
+Greetings! I am Vincent Darmawan, a fresh graduate from Petra Christian University majoring at Computer Science. I am highly interested at combining the power of software engineering and AI to create a scalable AI application.
+
 I'm currently working on finding a full time job at IT industry, any help will be much appreciated
 
 Feel free to reach me,
-IG @vincentdar
+<ul>
+  <li>IG      : @vincentdar</li>
+  <li>Gmail   : vincentd12346@gmail.com</li>
+</ul>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentdar)](https://github.com/anuraghazra/github-readme-stats)
 
