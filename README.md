@@ -7,9 +7,9 @@ I'm currently working on finding a full time job at IT industry, any help will b
 Feel free to reach me,
 IG @vincentdar
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincentdar)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentdar)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vincentdar/vincentdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
