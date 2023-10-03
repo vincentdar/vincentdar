@@ -2,7 +2,7 @@
 
 Greetings! I am Vincent Darmawan, a fresh graduate from Petra Christian University majoring at Computer Science. I am highly interested at combining the power of software engineering and AI to create a scalable AI application.
 
-I'm currently working on finding a full time job at IT industry, any help will be much appreciated
+I'm currently working as SAP BW Consultant at PT 360 Teknologi Indonesia
 
 Feel free to reach me,
 <ul>
